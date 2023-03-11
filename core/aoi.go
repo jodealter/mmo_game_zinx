@@ -8,7 +8,7 @@ const (
 	AOI_CNTS_X_int = 10
 	AOI_MIN_Y_int  = 75
 	AOI_MAX_Y_int  = 400
-	AOI_CNTS_T_int = 20
+	AOI_CNTS_Y_int = 20
 )
 
 type AOIManager struct {
